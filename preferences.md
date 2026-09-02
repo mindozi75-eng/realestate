@@ -46,3 +46,4 @@
 - 리스트 v2: [recommendations/2026-09-사당양재-초기재건축.md](recommendations/2026-09-사당양재-초기재건축.md)
 - 리스트 v3: [recommendations/2026-09-사당양재-24년-실거주재건축.md](recommendations/2026-09-사당양재-24년-실거주재건축.md)
 - 남현형: [recommendations/2026-09-남현형-중소단지.md](recommendations/2026-09-남현형-중소단지.md)
+- 공유용: [recommendations/2026-09-한일유앤아이-공유메모.md](recommendations/2026-09-한일유앤아이-공유메모.md)
