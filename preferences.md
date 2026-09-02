@@ -48,3 +48,4 @@
 - 남현형: [recommendations/2026-09-남현형-중소단지.md](recommendations/2026-09-남현형-중소단지.md)
 - 공유용: [recommendations/2026-09-한일유앤아이-공유메모.md](recommendations/2026-09-한일유앤아이-공유메모.md)
 - 2026-09-02: 한일 임장 후 매수 검토. 네이버 매매 1건은 원하는 층·금액이 아님. **주식처럼 지정가 주문은 없음.** 단지 앞 중개에 희망 층·상한가를 맡김.
+- 임장 말: [recommendations/2026-09-한일-임장문의.md](recommendations/2026-09-한일-임장문의.md)
