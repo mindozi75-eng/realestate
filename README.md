@@ -31,6 +31,7 @@
 .cursor/rules/                 이 레포에서 스킬을 기본 적용
 apartments/                    단지별 브리핑
 compares/                      단지 비교
+recommendations/               조건 맞춤 추천리스트
 preferences.md                 나의 매수 조건
 ```
 
